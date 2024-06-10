@@ -3,7 +3,8 @@ import random
 
 class TodoUser(HttpUser):
     wait_time = between(1, 2)
-
+    hott = "http://127.0.0.1:8000"
+    
     def on_start(self):
         # Create some initial todos
         for i in range(5):

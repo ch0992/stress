@@ -1,0 +1,40 @@
+###
+### Create Todo
+###
+
+POST http://localhost:8000/todos
+Content-Type: application/json
+
+{
+  "label": "Buy groceries"
+}
+
+###
+### Get Todos
+###
+
+GET http://localhost:8000/todos
+
+###
+### Get Todo by ID
+###
+
+GET http://localhost:8000/todos/1
+
+###
+### Update Todo
+###
+
+POST http://localhost:8000/todos
+Content-Type: application/json
+
+{
+  "id": 1,
+  "label": "Buy milk"
+}
+
+###
+### Delete Todo
+###
+
+POST http://localhost:8000/todos/1
