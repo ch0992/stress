@@ -28,7 +28,15 @@ https://medium.com/ai%C2%B3-theory-practice-business/fastai-lesson-8-project2-ch
 
 https://medium.com/ai%C2%B3-theory-practice-business/fastai-lesson-8-homework-e2c4c7cb4e02
 
-
+https://medium.com/stackademic/using-celery-rabbitmq-with-fastapi-2e6f0236841e
 
 ** ML **
 https://medium.com/towards-data-science/fastapi-and-streamlit-the-python-duo-you-must-know-about-72825def1243
+
+
+https://lsjsj92.tistory.com/652
+
+
+https://davi06000.tistory.com/category/Backend%20MLOps/Fastapi
+
+https://medium.com/@wilde.consult/elaborate-microservice-async-example-with-fastapi-rabbitmq-mongodb-and-redis-part5-300768a028e6
